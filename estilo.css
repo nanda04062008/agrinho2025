@@ -1,13 +1,13 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background-color: #FFECB3;  /* amarelo-palha, como um campo de trigo */
+    background-color: #FFECB3;  
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #2E7D32;  /* verde-escuro, como folhagem */
-    color: #FFD54F;  /* amarelo-ouro para destacar o texto */
+    background-color: #2E7D32;  
+    color: #FFD54F;  
     padding: 20px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ nav ul {
 }
 
 nav a {
-    color: #FFD54F;  /* amarelo-ouro, pra dar um destaque */
+    color: #FFD54F;  
     text-decoration: none;
     font-weight: bold;
 }
@@ -31,13 +31,13 @@ main {
     max-width: 800px;
     margin: 30px auto;
     padding: 0 20px;
-    background: #81C784;  /* verde-claro, como a nova folhagem */
+    background: #81C784;  
     border-radius: 10px;
-    box-shadow: 0 0 10px #5D4037;  /* sombra marrom pra dar um acabamento rústico */
+    box-shadow: 0 0 10px #5D4037;
 }
 
 h2 {
-    color: #5D4037;  /* marrom-escuro pra dar um tom terroso */
+    color: #5D4037;  
     border-bottom: 2px solid #8D6E63;
     padding-bottom: 5px;
 }
@@ -46,7 +46,7 @@ article {
     margin: 20px 0;
     padding: 15px;
     border: 1px solid #8D6E63;
-    background-color: #D7CCC8;  /* bege, como sacos de farinha */
+    background-color: #D7CCC8; 
     border-radius: 5px;
 }
 
